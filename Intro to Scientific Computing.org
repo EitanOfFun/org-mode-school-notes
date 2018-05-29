@@ -1,0 +1,21 @@
+#+TITLE: Intro to Scientific Computing Notes
+#+AUTHOR: Eitan Sternlicht
+
+#+STARTUP: overview
+#+LANGUAGE: en
+#+INFOJS_OPT: view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
+#+LINK_HOME: http://ehneilsen.net
+#+LINK_UP: http://ehneilsen.net/notebook
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
+
+* Testing Math
+** Test 1:
+
+  \(f(x) = \frac{x^3}{n}\)
+** Test 2:
+ Our best estimate of F(\nu) will be 
+ \[
+ \hat{F}(\nu) = \frac{G(\nu)}{H(\nu)}.
+ \]
+* Test 2
+** Bla
