@@ -8,14 +8,10 @@
 #+LINK_UP: http://ehneilsen.net/notebook
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
 
-* Testing Math
-** Test 1:
 
-  \(f(x) = \frac{x^3}{n}\)
-** Test 2:
- Our best estimate of F(\nu) will be 
- \[
- \hat{F}(\nu) = \frac{G(\nu)}{H(\nu)}.
- \]
-* Test 2
-** Bla
+
+* Numerical Integration <2018-05-29 Tue>
+** Reasons for numerical integration
+   + The integrand $f(x)$ may be known only at certain points
+   + Difficult or impossible to find an antiderivative that is an elementary function
+** 
